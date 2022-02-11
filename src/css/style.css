@@ -118,6 +118,7 @@ main{
     list-style: inside decimal;
     text-align: left;
 }
+
 .containerListaProdutos ul li ol li{
     font-size: 13px;
     margin: 7px 0;
